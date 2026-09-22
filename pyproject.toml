@@ -51,8 +51,8 @@ dev = [
 tts-cache = "tts_cache.cli:main"
 
 [project.urls]
-Homepage = "https://github.com/kazuto-07/tts-cache"
-Issues = "https://github.com/kazuto-07/tts-cache/issues"
+Homepage = "https://github.com/kazuto-07/tts-cacher"
+Issues = "https://github.com/kazuto-07/tts-cacher/issues"
 
 # One version literal, in src/tts_cache/__init__.py. Declaring it here too is how the
 # wheel and the import end up disagreeing after a hurried release.
